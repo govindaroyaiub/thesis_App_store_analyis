@@ -1,1 +1,2 @@
-# thesis_App_store_analyis
+Thesis: App Store Analysis (proposed)
+A research on analyzing the app store specifically the Microsoft App Store to find fraud apps. The apps will be predicted by using the user reviews thus, Sentiment Analysis on the reviews. Here, we (me and my other group members) will donate a dataset of apps from windows app store by using web-scrapper. After the analysis, we the prediction of apps will give a result which is fraud or not.
